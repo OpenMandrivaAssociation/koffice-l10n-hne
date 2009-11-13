@@ -1,5 +1,5 @@
 Name: koffice-l10n-hne
-Version: 2.0.82
+Version: 2.0.91
 Release: %mkrel 1
 Summary: Language files for KOffice Chhattisgarhi
 Group: System/Internationalization
