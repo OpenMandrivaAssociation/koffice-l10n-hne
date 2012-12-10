@@ -36,3 +36,31 @@ rm -rf %buildroot
 
 %clean
 rm -rf %buildroot
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 2.1.82-2mdv2011.0
++ Revision: 612640
+- the mass rebuild of 2010.1 packages
+
+* Sat Apr 17 2010 Funda Wang <fwang@mandriva.org> 2.1.82-1mdv2010.1
++ Revision: 535939
+- new version 2.1.82
+
+* Thu Jan 14 2010 Funda Wang <fwang@mandriva.org> 2.1.1-1mdv2010.1
++ Revision: 491262
+- new version 2.1.1
+
+* Tue Nov 24 2009 Funda Wang <fwang@mandriva.org> 2.1.0-1mdv2010.1
++ Revision: 469530
+- new version 2.1.0
+
+* Fri Nov 13 2009 Funda Wang <fwang@mandriva.org> 2.0.91-1mdv2010.1
++ Revision: 465550
+- new version 2.0.91
+
+* Thu Sep 17 2009 Funda Wang <fwang@mandriva.org> 2.0.82-1mdv2010.0
++ Revision: 443730
+- import source and spec
+- Created package structure for koffice-l10n-hne.
+
